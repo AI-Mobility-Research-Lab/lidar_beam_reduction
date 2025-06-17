@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+
+[dev]
+pytest
+pytest-cov
+flake8
+
+[ply]
+plyfile

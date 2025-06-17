@@ -1,0 +1,2 @@
+[console_scripts]
+reduce_beams = lidar_beam_reduction.command_line:main
